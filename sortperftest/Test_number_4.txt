@@ -1,0 +1,174 @@
+||||||||||||||||||||||||| 
+--------TESTE #4---------
+||||||||||||||||||||||||| 
+
+
+[=== 10k - RANDOM ===]
+--- BOLHA ---
+Tempo de execucao: 110
+-----------------------------
+--- SELECAO ---
+Tempo de execucao: 36
+-----------------------------
+--- INSERCAO ---
+Tempo de execucao: 13
+-----------------------------
+--- MERGE ITER---
+Tempo de execucao: 1
+-----------------------------
+--- MERGE REC ---
+Tempo de execucao: 1
+-----------------------------
+
+[=== 10k - DECRESCENTE ===]
+--- BOLHA ---
+Tempo de execucao: 30
+-----------------------------
+--- SELECAO ---
+Tempo de execucao: 50
+-----------------------------
+--- INSERCAO ---
+Tempo de execucao: 24
+-----------------------------
+--- MERGE ITER ---
+Tempo de execucao: 0
+-----------------------------
+--- MERGE REC ---
+Tempo de execucao: 0
+-----------------------------
+
+[=== 50k - RANDOM ===]
+--- BOLHA ---
+Tempo de execucao: 3075
+-----------------------------
+--- SELECAO ---
+Tempo de execucao: 892
+-----------------------------
+--- INSERCAO ---
+Tempo de execucao: 302
+-----------------------------
+--- MERGE ITER---
+Tempo de execucao: 5
+-----------------------------
+--- MERGE REC ---
+Tempo de execucao: 6
+-----------------------------
+
+[=== 50k - DECRESCENTE ===]
+--- BOLHA ---
+Tempo de execucao: 757
+-----------------------------
+--- SELECAO ---
+Tempo de execucao: 1248
+-----------------------------
+--- INSERCAO ---
+Tempo de execucao: 597
+-----------------------------
+--- MERGE ITER ---
+Tempo de execucao: 2
+-----------------------------
+--- MERGE REC ---
+Tempo de execucao: 2
+-----------------------------
+
+[=== 100k - RANDOM ===]
+--- BOLHA ---
+Tempo de execucao: 12474
+-----------------------------
+--- SELECAO ---
+Tempo de execucao: 3583
+-----------------------------
+--- INSERCAO ---
+Tempo de execucao: 1203
+-----------------------------
+--- MERGE ITER---
+Tempo de execucao: 11
+-----------------------------
+--- MERGE REC ---
+Tempo de execucao: 13
+-----------------------------
+
+[=== 100k - DECRESCENTE ===]
+--- BOLHA ---
+Tempo de execucao: 3114
+-----------------------------
+--- SELECAO ---
+Tempo de execucao: 4983
+-----------------------------
+--- INSERCAO ---
+Tempo de execucao: 2416
+-----------------------------
+--- MERGE ITER ---
+Tempo de execucao: 4
+-----------------------------
+--- MERGE REC ---
+Tempo de execucao: 6
+-----------------------------
+
+[=== 500k - RANDOM ===]
+--- BOLHA ---
+Tempo de execucao: 309830
+-----------------------------
+--- SELECAO ---
+Tempo de execucao: 89315
+-----------------------------
+--- INSERCAO ---
+Tempo de execucao: 30325
+-----------------------------
+--- MERGE ITER---
+Tempo de execucao: 64
+-----------------------------
+--- MERGE REC ---
+Tempo de execucao: 75
+-----------------------------
+
+[=== 500k - DECRESCENTE ===]
+--- BOLHA ---
+Tempo de execucao: 80090
+-----------------------------
+--- SELECAO ---
+Tempo de execucao: 124799
+-----------------------------
+--- INSERCAO ---
+Tempo de execucao: 60727
+-----------------------------
+--- MERGE ITER ---
+Tempo de execucao: 23
+-----------------------------
+--- MERGE REC ---
+Tempo de execucao: 27
+-----------------------------
+
+[=== 1000k - RANDOM ===]
+--- BOLHA ---
+Tempo de execucao: 1238251
+-----------------------------
+--- SELECAO ---
+Tempo de execucao: 359512
+-----------------------------
+--- INSERCAO ---
+Tempo de execucao: 122048
+-----------------------------
+--- MERGE ITER---
+Tempo de execucao: 136
+-----------------------------
+--- MERGE REC ---
+Tempo de execucao: 170
+-----------------------------
+
+[=== 1000k - DECRESCENTE ===]
+--- BOLHA ---
+Tempo de execucao: 322159
+-----------------------------
+--- SELECAO ---
+Tempo de execucao: 500920
+-----------------------------
+--- INSERCAO ---
+Tempo de execucao: 245393
+-----------------------------
+--- MERGE ITER ---
+Tempo de execucao: 48
+-----------------------------
+--- MERGE REC ---
+Tempo de execucao: 56
+-----------------------------
